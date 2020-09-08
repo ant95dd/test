@@ -1,2 +1,2 @@
-# test Applicazione sviluppata in springboot per testin con openshift
+# test Applicazione sviluppata in springboot per testing con openshift
 Test per deploy
